@@ -1,4 +1,5 @@
 # Readme
+This is an experiment project for my Deep Learning course.
 
 This readme provides instructions for installing, loading data, and training the model.
 
